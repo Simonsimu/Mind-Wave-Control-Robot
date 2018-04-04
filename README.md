@@ -1,4 +1,4 @@
-We divide our project to many tasks to reach the final proto type :
+We divided our project to many tasks to reach the final proto type :
 
  The first task was dealing with the interface of the brain signals (Alpha- beta- gamma- theta-ratio of
 attention and mediation).
