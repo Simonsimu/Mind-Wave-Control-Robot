@@ -28,3 +28,8 @@ We divided our project to many tasks to reach the final proto type :
     
     The final task was to interface the EEG headset to the ardiuno robo inorder to
     control the robo using brain signals.
+
+Inorder to interface the EEG headset with the Micro controller(ATmega328P)
+Dowload the source code provided in the repository. 
+Copy it to the Arduino IDE and in tools select the boards in boards manager select
+ATmega328P and dump the code into the ATmega328P micro controller.
