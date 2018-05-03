@@ -1,3 +1,14 @@
+# Mind Wave Control Robot
+
+In this project you will control a robot using your mind.
+
+# Pre-Requisites:
+    1)Arduino Uno ATmega328P
+    2)NeuroSky EEG Headset
+    3)L293 motor driver
+    4)HC-05 Bluetooth Module
+    5)Arduino Software IDE
+
 We divided our project to many tasks to reach the final proto type :
 
  The first task was dealing with the interface of the brain signals (Alpha- beta- gamma- theta-ratio of
