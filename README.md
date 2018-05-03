@@ -10,7 +10,7 @@ The technoligies used in this project are Embedded System and Electroencephalogr
     4)HC-05 Bluetooth Module
     5)Arduino Software IDE
 
-# We divided our project to many tasks to reach the final proto type :
+We divided our project to many tasks to reach the final proto type :
 
     The first task was dealing with the interface of the brain signals
    	(Alpha- beta- gamma- theta-ratio of attention and mediation).
